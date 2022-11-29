@@ -9,7 +9,7 @@
 
 function main() {
 
-  let ss = SpreadsheetApp.openByUrl('');   // enter url of your sheet here
+  let ss = SpreadsheetApp.openByUrl('https://docs.google.com/spreadsheets/d/1c7Y2fKl-eHoVS0UO5ABgSaxr4mYYsJzvEuVRAS15_Oc/edit#gid=556095781');   // enter url of your sheet here
 
   // don't change anything below this line *************************
 
